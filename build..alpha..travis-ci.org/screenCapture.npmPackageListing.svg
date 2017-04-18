@@ -1,0 +1,95 @@
+<svg height="1470" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1470" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 09:05:32 +0000  4868198 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:05:32 +0000      354 bytes  CODE_OF_CONDUCT.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:05:32 +0000    13695 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:05:32 +0000     1622 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:05:32 +0000    16725 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:05:32 +0000     5914 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:05:32 +0000      430 bytes  appveyor.yml</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:05:32 +0000      102 bytes  artifacts/README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:05:32 +0000      169 bytes  bin/web-ext</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:05:32 +0000    89495 bytes  dist/functional-tests.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:05:32 +0000   153122 bytes  dist/functional-tests.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:05:32 +0000   853839 bytes  dist/unit-tests.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:05:32 +0000  1559901 bytes  dist/unit-tests.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:05:32 +0000   655581 bytes  dist/web-ext.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:05:32 +0000  1265636 bytes  dist/web-ext.js.map</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:05:32 +0000     5342 bytes  package.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:05:32 +0000     5657 bytes  src/cmd/build.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:05:32 +0000      162 bytes  src/cmd/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:05:32 +0000     2317 bytes  src/cmd/lint.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:05:32 +0000    10293 bytes  src/cmd/run.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:05:32 +0000     4498 bytes  src/cmd/sign.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:05:32 +0000     2194 bytes  src/config.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 09:05:32 +0000     2518 bytes  src/errors.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 09:05:32 +0000    11188 bytes  src/firefox/index.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 09:05:32 +0000     5017 bytes  src/firefox/preferences.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 09:05:32 +0000     6382 bytes  src/firefox/remote.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 09:05:32 +0000       60 bytes  src/main.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 09:05:32 +0000    12629 bytes  src/program.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 09:05:32 +0000     2106 bytes  src/util/artifacts.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 09:05:32 +0000      901 bytes  src/util/desktop-notifier.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 09:05:32 +0000     3115 bytes  src/util/file-filter.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 09:05:32 +0000      498 bytes  src/util/is-directory.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 09:05:32 +0000     2931 bytes  src/util/logger.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 09:05:32 +0000     2278 bytes  src/util/manifest.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 09:05:32 +0000     2913 bytes  src/util/temp-dir.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 09:05:32 +0000      444 bytes  src/util/updates.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 09:05:32 +0000      135 bytes  src/util/zip-dir.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 09:05:32 +0000     2168 bytes  src/watcher.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 09:05:32 +0000       57 bytes  tasks/configs/clean.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 09:05:32 +0000       67 bytes  tasks/configs/coveralls.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 09:05:32 +0000      169 bytes  tasks/configs/eslint.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 09:05:32 +0000       74 bytes  tasks/configs/flowbin.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 09:05:32 +0000      557 bytes  tasks/configs/mochaTest.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 09:05:32 +0000      368 bytes  tasks/configs/watch.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 09:05:32 +0000      486 bytes  tasks/configs/webpack.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 09:05:32 +0000     8260 bytes  tasks/travis-pr-title-lint.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 09:05:32 +0000      542 bytes  tests/coverage-reporter.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 09:05:32 +0000      150 bytes  tests/fixtures/minimal-localizable-web-ext/_loca\</tspan>
+<tspan x="10" y="794">les/en/messages.json</tspan>
+<tspan x="10" y="810"> 48.  2017-04-18 09:05:32 +0000       68 bytes  tests/fixtures/minimal-localizable-web-ext/backg\</tspan>
+<tspan x="10" y="826">round-script.js</tspan>
+<tspan x="10" y="842"> 49.  2017-04-18 09:05:32 +0000      158 bytes  tests/fixtures/minimal-localizable-web-ext/manif\</tspan>
+<tspan x="10" y="858">est.json</tspan>
+<tspan x="10" y="874"> 50.  2017-04-18 09:05:32 +0000       68 bytes  tests/fixtures/minimal-web-ext/background-script\</tspan>
+<tspan x="10" y="890">.js</tspan>
+<tspan x="10" y="906"> 51.  2017-04-18 09:05:32 +0000      376 bytes  tests/fixtures/minimal-web-ext/manifest.json</tspan>
+<tspan x="10" y="922"> 52.  2017-04-18 09:05:32 +0000      318 bytes  tests/fixtures/minimal_extension-1.0.zip</tspan>
+<tspan x="10" y="938"> 53.  2017-04-18 09:05:32 +0000     3177 bytes  tests/functional/common.js</tspan>
+<tspan x="10" y="954"> 54.  2017-04-18 09:05:32 +0000      840 bytes  tests/functional/fake-amo-server.js</tspan>
+<tspan x="10" y="970"> 55.  2017-04-18 09:05:32 +0000      105 bytes  tests/functional/fake-firefox-binary.bat</tspan>
+<tspan x="10" y="986"> 56.  2017-04-18 09:05:32 +0000     1190 bytes  tests/functional/fake-firefox-binary.js</tspan>
+<tspan x="10" y="1002"> 57.  2017-04-18 09:05:32 +0000      182 bytes  tests/functional/runner.js</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-18 09:05:32 +0000      701 bytes  tests/functional/test.cli.build.js</tspan>
+<tspan x="10" y="1034"> 59.  2017-04-18 09:05:32 +0000      699 bytes  tests/functional/test.cli.lint.js</tspan>
+<tspan x="10" y="1050"> 60.  2017-04-18 09:05:32 +0000      530 bytes  tests/functional/test.cli.nocommand.js</tspan>
+<tspan x="10" y="1066"> 61.  2017-04-18 09:05:32 +0000     1364 bytes  tests/functional/test.cli.run.js</tspan>
+<tspan x="10" y="1082"> 62.  2017-04-18 09:05:32 +0000     1368 bytes  tests/functional/test.cli.sign.js</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-18 09:05:32 +0000     6284 bytes  tests/unit/helpers.js</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-18 09:05:32 +0000      202 bytes  tests/unit/runner.js</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-18 09:05:32 +0000    10879 bytes  tests/unit/test-cmd/test.build.js</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-18 09:05:32 +0000     4584 bytes  tests/unit/test-cmd/test.lint.js</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-18 09:05:32 +0000    16230 bytes  tests/unit/test-cmd/test.run.js</tspan>
+<tspan x="10" y="1178"> 68.  2017-04-18 09:05:32 +0000    11832 bytes  tests/unit/test-cmd/test.sign.js</tspan>
+<tspan x="10" y="1194"> 69.  2017-04-18 09:05:32 +0000    18214 bytes  tests/unit/test-firefox/test.firefox.js</tspan>
+<tspan x="10" y="1210"> 70.  2017-04-18 09:05:32 +0000     3530 bytes  tests/unit/test-firefox/test.preferences.js</tspan>
+<tspan x="10" y="1226"> 71.  2017-04-18 09:05:32 +0000    11436 bytes  tests/unit/test-firefox/test.remote.js</tspan>
+<tspan x="10" y="1242"> 72.  2017-04-18 09:05:32 +0000     4767 bytes  tests/unit/test-util/test.artifacts.js</tspan>
+<tspan x="10" y="1258"> 73.  2017-04-18 09:05:32 +0000     1821 bytes  tests/unit/test-util/test.desktop-notifier.js</tspan>
+<tspan x="10" y="1274"> 74.  2017-04-18 09:05:32 +0000     4427 bytes  tests/unit/test-util/test.file-filter.js</tspan>
+<tspan x="10" y="1290"> 75.  2017-04-18 09:05:32 +0000     1287 bytes  tests/unit/test-util/test.is-directory.js</tspan>
+<tspan x="10" y="1306"> 76.  2017-04-18 09:05:32 +0000     5793 bytes  tests/unit/test-util/test.logger.js</tspan>
+<tspan x="10" y="1322"> 77.  2017-04-18 09:05:32 +0000     6518 bytes  tests/unit/test-util/test.manifest.js</tspan>
+<tspan x="10" y="1338"> 78.  2017-04-18 09:05:32 +0000     1516 bytes  tests/unit/test-util/test.temp-dir.js</tspan>
+<tspan x="10" y="1354"> 79.  2017-04-18 09:05:32 +0000      958 bytes  tests/unit/test-util/test.updates.js</tspan>
+<tspan x="10" y="1370"> 80.  2017-04-18 09:05:32 +0000    11052 bytes  tests/unit/test.config.js</tspan>
+<tspan x="10" y="1386"> 81.  2017-04-18 09:05:32 +0000     3522 bytes  tests/unit/test.errors.js</tspan>
+<tspan x="10" y="1402"> 82.  2017-04-18 09:05:32 +0000    14031 bytes  tests/unit/test.program.js</tspan>
+<tspan x="10" y="1418"> 83.  2017-04-18 09:05:32 +0000      354 bytes  tests/unit/test.setup.js</tspan>
+<tspan x="10" y="1434"> 84.  2017-04-18 09:05:32 +0000     2957 bytes  tests/unit/test.watcher.js</tspan>
+<tspan x="10" y="1450"> 85.  2017-04-18 09:05:32 +0000     1799 bytes  webpack.config.js</tspan>
+</text>
+</svg>
